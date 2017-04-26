@@ -46,7 +46,7 @@
     "framework-arduinoespressif8266": {
       "type": "framework",
       "optional": true,
-      "version": "1.20400.1-rysta"
+      "version": "1.20400.2-rysta"
     },
     "framework-simba": {
       "type": "framework",
