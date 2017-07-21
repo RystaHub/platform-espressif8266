@@ -22,7 +22,7 @@
       "framework-arduinoespressif8266": [
         {
           "url": "https://github.com/RystaHub/Arduino/archive/rysta.zip",
-          "version": "1.20400.4",
+          "version": "1.20400.5",
           "system": "*"
         }
       ]
@@ -46,7 +46,7 @@
     "framework-arduinoespressif8266": {
       "type": "framework",
       "optional": true,
-      "version": "1.20400.4"
+      "version": "1.20400.5"
     },
     "framework-simba": {
       "type": "framework",
