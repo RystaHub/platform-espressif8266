@@ -9,8 +9,12 @@
     "mcu": "esp8266",
     "variant": "thing"
   },
+  "connectivity": [
+    "wifi"
+  ],
   "frameworks": [
-    "arduino"
+    "arduino",
+    "esp8266-rtos-sdk"
   ],
   "name": "SparkFun Blynk Board",
   "upload": {

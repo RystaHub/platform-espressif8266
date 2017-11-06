@@ -9,10 +9,14 @@
     "mcu": "esp8266",
     "variant": "espectro"
   },
-  "frameworks": [
-    "arduino"
+  "connectivity": [
+    "wifi"
   ],
-  "name": "ESPrectro Core",
+  "frameworks": [
+    "arduino",
+    "esp8266-rtos-sdk"
+  ],
+  "name": "ESPectro Core",
   "upload": {
     "maximum_ram_size": 81920,
     "maximum_size": 4194304,
